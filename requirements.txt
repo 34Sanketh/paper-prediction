@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+langchain
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+pandas
+fpdf2
+requests
+plotly
+python-docx
